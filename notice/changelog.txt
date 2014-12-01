@@ -1,0 +1,17 @@
+-----BEGIN PEERCOIN SIGNED MESSAGE-----
+Comment: Signed by Peercoin Armory v0.92.3
+
+#-------------------------------------------------------------------------------
+VERSION 0.0.2
+Released Dec 1, 2014
+
+
+	- Peercoin Conversion Complete
+		Not really, this is just a test.
+-----BEGIN PEERCOIN SIGNATURE-----
+
+
+HH+BVtG5Ka0aV0v+Gn2tDsQqJbhpQkabGFhOMkUpY/GzAQOmt0lJs0/q767xLnbQ
+2oocxppfApRdcw/byvcJQ8w=
+=WBa7
+-----END PEERCOIN SIGNATURE-----

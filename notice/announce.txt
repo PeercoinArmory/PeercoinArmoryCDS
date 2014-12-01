@@ -1,0 +1,12 @@
+-----BEGIN PEERCOIN SIGNED MESSAGE-----
+Comment: Signed by Peercoin Armory v0.92.3
+
+changelog    http://104.236.10.247/notice/changelog.txt    4e94a854f49e1dfa174e94a879b42abbc792c8a969fb4d4277ca0b1cdf668e2d
+downloads    http://104.236.10.247/notice/dllinks.txt      b2de1db44daa9a184ddd7b754533b53bf3a2695716caf6b9c6d30d31a86a1b4e
+-----BEGIN PEERCOIN SIGNATURE-----
+
+
+HIWd6YRCr7SIN2lCrO7aWTxzKIrKfFe4q26FVWMY+NDlNK022VGlK2yE61P3za9Z
+K+5btdszfevHohduVnxApzs=
+=wqpC
+-----END PEERCOIN SIGNATURE-----

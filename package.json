@@ -1,0 +1,9 @@
+{
+	"name": "PeercoinArmoryCDS",
+	"version": "0.0.2",
+	"description": "Peercoin Armory Content Delivery Service",
+	"author": "SigmundAlpha <alpha.sigmund@gmail.com>",
+	"dependencies": {
+		"ecdsa": "0.6.0"
+	}
+}

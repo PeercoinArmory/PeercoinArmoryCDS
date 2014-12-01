@@ -1,0 +1,12 @@
+-----BEGIN PEERCOIN SIGNED MESSAGE-----
+Comment: Signed by Peercoin Armory v0.92.3
+
+Satoshi 0.9.3 Ubuntu  10.04,10.10,11.04,11.10,12.04,12.10,13.04,13.10,14.04,14.10 32,64 http://104.236.10.247/bin/peercoin-core-0.0.1.tar.gz  6cdf0913039a6d7b170a307372910b8fcb9ee6ecc3e00ab742d3b4607008deab
+Satoshi 0.9.3 Linux   All 32,64              http://104.236.10.247/bin/peercoin-core-0.0.1.tar.gz  6cdf0913039a6d7b170a307372910b8fcb9ee6ecc3e00ab742d3b4607008deab
+-----BEGIN PEERCOIN SIGNATURE-----
+
+
+G2ZhPofW4y64VYFWSTh4+O2n4oBbO+PKnehbTkPH9pjmI3fWvp4tagmPd+4wPmmA
+A26VgkOn8/a8/GHaSFszEJA=
+=iIkC
+-----END PEERCOIN SIGNATURE-----

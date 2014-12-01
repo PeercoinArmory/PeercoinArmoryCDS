@@ -1,0 +1,39 @@
+-----BEGIN PEERCOIN SIGNED MESSAGE-----
+Comment: Signed by the Peercoin Armory CDN
+
+UNIQUEID:   381a88f9
+VERSION:    0
+STARTTIME:  0
+EXPIRES:    2000000000
+CANCELID:   []
+MINVERSION: *
+MAXVERSION: <0.91
+PRIORITY:   4096
+ALERTTYPE:  Security
+NOTIFYSEND: False
+NOTIFYRECV: False
+SHORTDESCR: Wallet Consistency Issues in 0.90 and Earlier
+LONGDESCR:
+   It is highly recommended that all systems that distribute payment addresses
+   be upgraded to Armory 0.91 or later.  These versions of Armory check
+   wallet consistency on startup, and add general robustness against certain
+   kinds of hardware errors and wallet-manipulation attacks.
+
+   These checks should be performed on online hot wallets and online
+   watching-only wallets.  It is not necessary to upgrade any offline computers
+   just to check wallet consistency.  All issues related to this notification
+   can be identified and/or avoided by simply upgrading the system that
+   creates transactions and distributes payment addresses.
+
+   More information can be found at the following page:
+
+   <a href="https://bitcoinarmory.com/announcements/">https://bitcoinarmory.com/announcements/</a>
+   *****
+
+-----BEGIN PEERCOIN SIGNATURE-----
+
+
+HNN6U9kNX7JTTuSWvnhYpFvuZ2eJ/co05VOw3aV3u3i3Q1pzNARrZ3Re2zppV49/
+U9MhjZtFRZ6KaUz3ZmJySOE=
+=s7AP
+-----END PEERCOIN SIGNATURE-----
